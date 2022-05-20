@@ -1,5 +1,11 @@
 # EZ-CDM
-Constains code for the article ...
+This repository constains code for the article ...
+Tuturials are:
+... 
+
+![Tururial for fitting Simple EZ-CDM](Simple EZ-CDM.ipynb)
+Codes are in python but hopefully they are siple enough for translating to other pogramming langueages.
+Any question or comment is welcomed. :smile:
 
 
 # H1
