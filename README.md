@@ -3,8 +3,8 @@ This repository constains code for the article ...
 Tuturials are:
 ... 
 
-![Tururial for fitting Simple EZ-CDM](Simple EZ-CDM.ipynb)
-
+![Tururial for fitting Simple EZ-CDM](https://github.com/HasanNath/EZ-CDM/blob/main/Simple%20EZ-CDM.ipynb)
+[Tururial for fitting Simple EZ-CDM](https://github.com/HasanNath/EZ-CDM/blob/main/Simple%20EZ-CDM.ipynb)
 Codes are in python but hopefully they are siple enough for translating to other pogramming langueages.
 Any question or comment is welcomed. :smile:
 
