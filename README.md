@@ -9,4 +9,4 @@ Qarehdaghi, H., & Rad, J. A. (2022). EZ-CDM for modeling continuous decisions by
 Codes are in Python but hopefully, they are simple enough for translating to other programming languages.\
 Any question or comment is welcomed! 😊
 
-One other thing. A quick representation of this work at the 2022 meeting of the society for mathematical psychology is available here: https://mathpsych.org/presentation/742 
+One other thing. A quick presentation of this work at the 2022 meeting of the society for mathematical psychology is available here: https://mathpsych.org/presentation/742 
