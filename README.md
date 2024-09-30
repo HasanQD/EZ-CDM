@@ -1,6 +1,6 @@
 # EZ-CDM
 This repository contains code for the article: \
-Qarehdaghi, H., & Rad, J. A. (2022). EZ-CDM for modeling continuous decisions by everyone! Fast, simple, robust, and accurate estimation of circular diffusion model parameters. https://doi.org/10.31234/osf.io/rzqhg
+Qarehdaghi, H., & Rad, J. A. (2024). EZ-CDM: Fast, simple, robust, and accurate estimation of circular diffusion model parameters. Psychonomic Bulletin & Review, 1-34. https://doi.org/10.3758/s13423-024-02483-7
 
 - [Tuturial for fitting the Simple EZ-CDM](https://github.com/HasanNath/EZ-CDM/blob/main/Simple%20EZ-CDM.ipynb)
 - [Tuturial for fitting the Robust EZ-CDM](https://github.com/HasanNath/EZ-CDM/blob/main/Robust%20EZ-CDM.ipynb)
